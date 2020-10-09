@@ -175,7 +175,7 @@ void printBoard(Sudoku *board)
 			rowCounter++;
 		}
 	}
-}
+} 
 /*	Function: insertValue
 *	Description: insertValue into the board data type of the passed struct
 */
